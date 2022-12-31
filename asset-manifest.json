@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.9a32c060.js",
-    "static/js/787.26f70c15.chunk.js": "/static/js/787.26f70c15.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.9a32c060.js.map": "/static/js/main.9a32c060.js.map",
-    "787.26f70c15.chunk.js.map": "/static/js/787.26f70c15.chunk.js.map"
+    "main.css": "/FirstDeploy/static/css/main.073c9b0a.css",
+    "main.js": "/FirstDeploy/static/js/main.c49cf7b2.js",
+    "static/js/787.26f70c15.chunk.js": "/FirstDeploy/static/js/787.26f70c15.chunk.js",
+    "static/media/logo.svg": "/FirstDeploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FirstDeploy/index.html",
+    "main.073c9b0a.css.map": "/FirstDeploy/static/css/main.073c9b0a.css.map",
+    "main.c49cf7b2.js.map": "/FirstDeploy/static/js/main.c49cf7b2.js.map",
+    "787.26f70c15.chunk.js.map": "/FirstDeploy/static/js/787.26f70c15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9a32c060.js"
+    "static/js/main.c49cf7b2.js"
   ]
 }
